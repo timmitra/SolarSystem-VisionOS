@@ -19,7 +19,7 @@ struct DetailView: View {
                     .font(.extraLargeTitle)
                     .bold()
 
-                Text("The Sun is the largest object in our solar system. Its diameter is about 865,000 miles (1.4 million kilometers). Its gravity holds the solar system together, keeping everything from the biggest planets to the smallest bits of debris in orbit around it.\nEven though the Sun is the center of our solar system and essential to our survival, it’s only an average star in terms of its size.")
+                Text("The Sun is the largest object in our solar system. Its diameter is about 865,000 miles (1.4 million kilometres). Its gravity holds the solar system together, keeping everything from the biggest planets to the smallest bits of debris in orbit around it.\nEven though the Sun is the centre of our solar system and essential to our survival, it’s only an average star in terms of its size.")
                     .font(.title)
 
             } else if title.contains("mercury") {
